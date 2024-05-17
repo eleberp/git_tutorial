@@ -1,1 +1,3 @@
 *.333
+.DS_Store
+bin/
